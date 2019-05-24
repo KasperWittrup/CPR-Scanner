@@ -1,0 +1,51 @@
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\GDPR Scanner.exe.config
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\GDPR Scanner.exe
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\GDPR Scanner.pdb
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.Danish.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\itextsharp.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\Xceed.Words.NET.dll
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.pdb
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.xml
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.xml
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.Danish.xml
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\itextsharp.xml
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.csproj.CoreCompileInputs.cache
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.csproj.CopyComplete
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.exe
+C:\Users\kawje\Source\Repos\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.pdb
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\GDPR Scanner.exe.config
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\GDPR Scanner.exe
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\GDPR Scanner.pdb
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.DataSet.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.Danish.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\itextsharp.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\Xceed.Words.NET.dll
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.pdb
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.xml
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\ExcelDataReader.DataSet.xml
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.xml
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\IronOcr.Danish.xml
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\itextsharp.xml
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\GDPR-Scanner\GDPR Scanner\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.csproj.CoreCompileInputs.cache
+C:\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.csproj.CopyComplete
+C:\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.exe
+C:\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.pdb
+C:\GDPR-Scanner\GDPR Scanner\obj\Debug\GDPR Scanner.csprojAssemblyReference.cache

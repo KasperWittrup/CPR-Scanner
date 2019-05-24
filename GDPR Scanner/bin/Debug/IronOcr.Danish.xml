@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IronOcr.Danish</name>
+    </assembly>
+    <members>
+        <member name="T:IronOcr.Languages.Danish">
+            <summary>
+              Danish (Dansk Sprog) Language Pack for IronOcr.  
+              <para> Requires IronOcr to be of value http://ironsoftware.com/csharp/ocr/ </para>
+              <example><code>IronOcr.Language = IronOcr.Languages.Danish.OcrLanguagePack</code></example>
+            </summary>
+        </member>
+        <member name="P:IronOcr.Languages.Danish.LanguageCode">
+            <exclude />
+        </member>
+        <member name="M:IronOcr.Languages.Danish.Deploy(System.String)">
+            <exclude />
+        </member>
+        <member name="M:IronOcr.Languages.Danish.ToString">
+            <exclude />
+        </member>
+        <member name="P:IronOcr.Languages.Danish.OcrLanguagePack">
+            Danish / Dansk (dan) language pack.
+        </member>
+    </members>
+</doc>
